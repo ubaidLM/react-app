@@ -1,0 +1,3 @@
+username = ubaidullahuoh
+password = ubaidkhan
+connection string = mongodb+srv://ubaidullahuoh:ubaidkhan@cluster0.nxtyft1.mongodb.net/
